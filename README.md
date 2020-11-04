@@ -1,4 +1,7 @@
-### Hi there 👋
+- 🌱 I’m currently learning GraphQL and Elasticsearch; 
+- 💬 Ask me about anything, I am happy to help;
+- 📝 [Resume](https://github.com/malavindra5/malavindra5/blob/main/Resume_Indra_Kumar_Malav.pdf)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:malavindra5@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malavindra5)
 [![Github](https://img.shields.io/badge/-GitHub-black?style=flat-square&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/malavindra5)
@@ -17,11 +20,10 @@
 <p> <!-- GitHub README Stats -->
    <!-- icons -->
   <a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-  <a href = "https://www.nodejs.org/"><img height="40" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1946154971553750365-512.png"></a>
-  <a href = "https://en.cppreference.com/w/cpp"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-  <a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a>
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
+  <a href = "https://www.nodejs.org/"><img height="40" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1946154971553750365-512.png"></a> 
+  <a href = "https://en.cppreference.com/w/cpp"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a> 
+  <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a> 
+  <a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a> 
   <a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>
 </p>
 
